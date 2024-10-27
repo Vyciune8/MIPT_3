@@ -274,8 +274,9 @@
                 android:textSize="32dp"
                 android:textColor="@color/white"
                 android:layout_margin="12dp"
-                android:id="@+id/button_dot"
-                android:text="." />
+                android:id="@+id/button_sqrt"
+                android:backgroundTint="#E91E63"
+                android:text="√" />
             <com.google.android.material.button.MaterialButton
                 android:layout_width="72dp"
                 android:layout_height="72dp"
